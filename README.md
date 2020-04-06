@@ -4,22 +4,8 @@
 </p>
 <hr>
 
-# Otros idiomas:
-
-1. [Arabic Git Cheat Sheet](https://github.com/deabreu1105/comandosGitt/blob/master/other-sheets/git-cheat-sheet-ar.md)
-2. [Chinese Git Cheat Sheet](https://github.com/deabreu1105/comandosGit/blob/master/other-sheets/git-cheat-sheet-zh.md)
-3. [Hindi Git Cheat Sheet](https://github.com/deabreu1105/comandosGit/blob/master/other-sheets/git-cheat-sheet-hi.md)
-4. [Turkish Git Cheat Sheet](https://github.com/deabreu1105/comandosGit/blob/master/other-sheets/git-cheat-sheet-tr.md)
-5. [English Git Cheat Sheet](https://github.com/deabreu1105/comandosGit/blob/master/other-sheets/git-cheat-sheet-en.md)
-6. [Greek Git Cheat Sheet](https://github.com/deabreu1105/comandosGit/blob/master/other-sheets/git-cheat-sheet-el.md)
-
-
-
-<hr>
-
-Git Cheat Sheet Español
+Guia de Git y GitHub
 ===============
-
 
 ### Índice
 * [Configuración](#configuración)
